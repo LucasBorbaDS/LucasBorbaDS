@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, mundo! Sou o Lucas Borba 👋
+# Olá, mundo! Sou o Lucas Ricardo Borba 👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Administra%C3%A7%C3%A3o+%2B+Ci%C3%AAncia+de+Dados;An%C3%A1lise+de+Dados+%26+Business+Intelligence;Transformando+dados+brutos+em+decis%C3%B5es+reais;Python+%E2%80%A2+Pandas+%E2%80%A2+Scikit-Learn+%E2%80%A2+SQL" alt="Typing SVG" />
