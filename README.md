@@ -32,7 +32,7 @@ Sou estudante de **Administração** com foco prático em **Ciência de Dados** 
 
 Acredito que o verdadeiro valor dos dados não está apenas em gerar gráficos bonitos ou modelos complexos, mas sim em responder às perguntas certas de negócio: *Como reduzir custos? Onde estão os gargalos operacionais? Como aumentar a satisfação e retenção de clientes?*
 
-- 🎓 **Formação:** Graduação em Administração de Empresas.
+- 🎓 **Formação:** Graduação em Administração.
 - 🔬 **Foco de Estudos:** Ciência de Dados, Análise de Dados, Estatística e Machine Learning.
 - 🎯 **Diferencial:** Capacidade de traduzir desafios corporativos e métricas de negócios (KPIs, ROI, Churn, Conversão) em soluções analíticas orientadas a dados.
 - 🚀 **Objetivo:** Atuar na ponte entre a tomada de decisão executiva e a engenharia/ciência de dados com foco em geração de resultados.
