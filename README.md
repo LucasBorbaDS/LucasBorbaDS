@@ -89,8 +89,8 @@ Acredito que o verdadeiro valor dos dados não está apenas em gerar gráficos b
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasBorbaDS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Lucas" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBorbaDS&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasBorbaDS&theme=tokyonight" alt="Estatísticas do GitHub de Lucas" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasBorbaDS&theme=tokyonight" alt="Linguagens Mais Usadas" height="165" />
 </div>
 
 <div align="center">
